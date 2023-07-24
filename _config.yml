@@ -17,7 +17,7 @@ title: Psychotrons!
 email: equizzi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A GIT place where to find interesting and weird discordians stuff aobut "The Amazing Universe of the Psychotrons!
-baseurl: "psychotrons.io/" # the subpath of your site, e.g. /blog
+baseurl: "/psychotrons.io" # the subpath of your site, e.g. /blog
 url: "https://github.com/Komplex-Live-Cinema-Group/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EquizziMariano
 github_username:  Komplex-Live-Cinema-Group
